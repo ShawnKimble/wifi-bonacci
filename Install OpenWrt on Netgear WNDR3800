@@ -1,0 +1,11 @@
+Outline
+
+ - Reset Router to factory default
+ - Download OpenWRT version xyz
+ - Upgrade firmware
+ - Set root password
+ - Configure Router
+ - Add NoDogSplash
+ - Configure NoDogSplash
+ - Configure Bitcoin API lookup
+ - Test
