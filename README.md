@@ -8,7 +8,7 @@ Goal:
 
 Process Outline:
  - Define router requirements
- - Install OpenWRT firmware
+ - Install and Configure OpenWRT firmware
  - Enable and customize NoDogSplash captive portal
  - Validate network user's MAC-ID credit status
     - Serve user unique payment address
